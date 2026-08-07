@@ -7,10 +7,8 @@ export const Hero = () => {
 const iconStyle = 'text-3xl text-white hover:text-[#7652df] transition-all duration-300'
 
     return (
-        <section id="home" className="min-h-screen scroll-mt-28  bg-[#040509]">
-        <div className="max-w-7xl mx-auto min-h-screen flex flex-col lg:flex-row mt-25  justify-between px-6 ">
-
-            
+        <section id="home" className=" pb-50 scroll-mt-28  bg-[#040509]">
+        <div className="max-w-7xl mx-auto  flex flex-col lg:flex-row mt-25  justify-between px-6 ">
 
            <div className="flex-1 flex flex-col items-center lg:items-start text-center lg:text-left gap-5">
                 <span className="text-white/85 text-lg font-medium lg:text-2xl">Olá, eu sou</span>

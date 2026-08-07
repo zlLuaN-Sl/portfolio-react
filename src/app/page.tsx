@@ -14,8 +14,8 @@ const Home = () => {
 
       <Navbar/>
       <Hero />
-      {/* <About />
-      <Technologies />
+      <About />
+      {/* <Technologies />
       <Projects /> 
       <Contact />
       <Footer /> */}
