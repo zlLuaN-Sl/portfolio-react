@@ -3,7 +3,7 @@ import { card } from "./AboutCard";
 
 export const About = () => {
     return (
-        <section id="about" className="min-h-scree border-t border-zinc-600 py-20">
+        <section id="about" className="min-h-scree border-t border-zinc-600 py-20 mb-20">
             <div className="max-w-7xl mx-auto px-6">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
 
