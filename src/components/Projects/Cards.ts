@@ -12,7 +12,7 @@ export const projetos: Projeto[] = [
     {
     title: "Pizzaria Prime",
     description: "Site de pizzaria totalmente responsivo e intuitivo. Possui uma seção dedicada para pedidos online. Desenvolvido com foco em uma boa experiência do usuário.",
-    image: "/assets/img/project01.png",
+    image: "/assets/img/Project01.png",
     technologies: ["Html e CSS", "javascript"],
     github: "https://github.com/zlLuaN-Sl/Project-Pizza",
     url: 'https://project-pizza-nu.vercel.app/'
