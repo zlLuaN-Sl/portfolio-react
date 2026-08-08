@@ -12,7 +12,7 @@ export const projetos: Projeto[] = [
     {
     title: "Pizzaria Prime",
     description: "Site de pizzaria totalmente responsivo e intuitivo. Possui uma seção dedicada para pedidos online. Desenvolvido com foco em uma boa experiência do usuário.",
-    image: "/assets/img/Project01.png",
+    image: "/assets/img/project01.png",
     technologies: ["Html e CSS", "javascript"],
     github: "https://github.com/zlLuaN-Sl/Project-Pizza",
     url: 'https://project-pizza-nu.vercel.app/'
@@ -28,7 +28,7 @@ export const projetos: Projeto[] = [
     {
     title: "Calculadora de Gorjeta",
     description: "Calculadora de gorjetas com porcentagens personalizáveis. Permite calcular o valor da gorjeta de forma dinâmica. com opção de reset para facilitar o uso.",
-    image: "/assets/img/Project03.png",
+    image: "/assets/img/project03.png",
     technologies: ["Html e CSS", "Tailwind CSS", "javascript"],
     github: "https://github.com/zlLuaN-Sl/Tip-Calculator",
     url: 'https://tip-calculator-six-rho.vercel.app/'
