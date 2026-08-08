@@ -61,7 +61,7 @@ export const Navbar = () => {
                             <a 
                             className="border border-cyan-400 px-6 py-3 rounded-lg transition-all duration-300 hover:bg-cyan-400 hover:text-black"
                            
-                            href="/curriculo/curriculo-luan.pdf" target="_blank"
+                            href="/Curriculo/curriculo-luan.pdf" target="_blank"
                             >Currículo</a>
                         </li>
                     </ul>
