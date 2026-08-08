@@ -10,7 +10,7 @@ import { Technologies } from "../components/Technologies/Technologies";
 
 const Home = () => {
   return(
-    <main className=" bg-[#040509]  min-h-screen">
+    <main id="top" className=" bg-[#040509]  min-h-screen">
 
       <Navbar/>
       <Hero />
