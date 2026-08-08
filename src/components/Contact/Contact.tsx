@@ -45,10 +45,10 @@ export const Contact = () => {
           </p>
 
           <a
-            href="mailto:luan0319silva@email.com"
+            href="mailto:luan0319silva@gmail.com"
             className="text-gray-300 transition-colors hover:text-[#9b7df5] flex gap-4 mb-4"
           >
-            <MailPlus className="text-[#9b7df5]" /> luan0319silva@email.com
+            <MailPlus className="text-[#9b7df5]" /> luan0319silva@gmail.com
           </a>
 
           <a
